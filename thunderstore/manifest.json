@@ -1,0 +1,10 @@
+{
+    "name": "Equip_3D_Bomb",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/YAZ64MT/Equip3DBomb",
+    "description": "Make your bombs 3D.",
+    "dependencies": [
+        "YAZMT-Global_Objects-0.1.1",
+        "YAZMT-Player_Model_Manager-0.5.0"
+    ]
+}
